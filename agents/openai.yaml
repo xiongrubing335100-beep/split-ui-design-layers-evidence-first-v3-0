@@ -1,0 +1,4 @@
+interface:
+  display_name: "Semantic UI Asset Split V1.8"
+  short_description: "Deliver first-pass green-screen UI assets"
+  default_prompt: "Use $split-ui-design-layers-semantic-first-v1-8 to analyze this UI, confirm the asset manifest, and deliver each selected asset's first ImageGen PNG directly on solid #00FF00."
