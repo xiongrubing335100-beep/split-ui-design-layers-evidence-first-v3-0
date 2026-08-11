@@ -1,0 +1,50 @@
+{
+  "version": "3.0",
+  "source": {"path": "", "width": null, "height": null, "aspect_ratio": null},
+  "execution": {
+    "auto_retry": false,
+    "max_candidates_per_layer": 1,
+    "candidate_limit_scope": "per_explicitly_authorized_round",
+    "full_source_canvas": true,
+    "ordinary_text_default_delivery": false
+  },
+  "phase": "inspect",
+  "layers": [
+    {
+      "layer_id": "A01",
+      "layer_name": "",
+      "ui_region": "",
+      "component_path": "",
+      "instance_id": "",
+      "z_order": 1,
+      "owns": [],
+      "excludes": [],
+      "occludes": [],
+      "occluded_by": [],
+      "source_evidence": [],
+      "support_components": [],
+      "observed_text": [],
+      "ui_independence": "independent",
+      "separation_reason": "",
+      "repair_envelope": {"description": "", "forbidden_regions": []},
+      "locked_visible_anchors": [],
+      "completion_required": false,
+      "completion_regions": [],
+      "risk_level": "low",
+      "processing_mode": "graphic_completion",
+      "fill_color": "#00FF00",
+      "compositing_mode": "Normal",
+      "authorization_round": 0,
+      "round_authorized": false,
+      "authorization_request": null,
+      "authorization_history": [],
+      "generation_count": 0,
+      "transport_retry_count": 0,
+      "candidate_path": null,
+      "visual_inspection": {"performed": false, "verdict": null, "failure_codes": []},
+      "status": "PENDING",
+      "review_note": null,
+      "final_output": null
+    }
+  ]
+}
